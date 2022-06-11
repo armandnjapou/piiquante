@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A siimple app to evaluate sauces",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Armand NJAPOU",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
